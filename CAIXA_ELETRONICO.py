@@ -226,5 +226,5 @@ def redirector():
         time.sleep(1.8)
         menu()
 
-cadastro()
+cadastro() # CHAMANDO NOVAMENTE O CADASTRO
 
